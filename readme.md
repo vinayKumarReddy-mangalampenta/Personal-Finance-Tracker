@@ -31,13 +31,6 @@ Welcome to **Personal Finance Tracker** — a simple React application to help u
 
 ---
 
-### ⚡ Things you should replace:
-
-- `"your-username"` with your actual GitHub username.
-- `"Your Name Here"` with your actual name.
-
----
-
 ### Demo
 
 ![alt text](image.png)
