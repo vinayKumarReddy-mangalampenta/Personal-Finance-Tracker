@@ -31,9 +31,21 @@ Welcome to **Personal Finance Tracker** — a simple React application to help u
 
 ---
 
+### Explanation:
+
+1. **Run Instructions**:
+   - **Clone** the repository.
+   - **Install dependencies** with `npm install`.
+   - **Start the development server** using `npm run dev`.
+   - **Build** for production with `npm run build`.
+   - **Deploy** the app to GitHub Pages with `npm run deploy`.
+
+---
+
 ### Demo
 
 ![alt text](image.png)
+<video controls src="Personal Finance Tracker - Google Chrome 2025-04-27 22-53-08.mp4" title="Title"></video>
 
 ---
 
